@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Michiel Murphy
 title: Junior Mobile & Enterprise Developer
+description: "Digitaal Portfolio - Michiel Murphy"
 email: michiel_murphy@outlook.com
 # website: https://michielmurphy.github.io
 
@@ -95,14 +96,6 @@ content:
     content:
       - layout: left
         title: Hogeschool Gent
-        caption: 2020 - 2022
-        sub_title: Graduaat Programmeren
-        # quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          Tijdens deze opleiding leerde ik desktopapplicaties ontwikkelen met C#, traditionele webapplicaties uitwerken met behulp van HTML, CSS en JS, en single-page applicaties creëren met React. Daarnaast ging ik op vlak van mobiele applicaties te werk met React Native.
-      - layout: left
-        title: Hogeschool Gent
         caption: 2023 - 2025
         sub_title: Verkort Traject Bachelor Toegepaste Informatica
         # quote: >
@@ -113,14 +106,20 @@ content:
           - C# (.NET Core, Entity Framework, Blazor, LINQ)
           - Java (JavaFX, JPA, Spring Boot)
           - AngularJS
-
+      - layout: left
+        title: Hogeschool Gent
+        caption: 2020 - 2022
+        sub_title: Graduaat Programmeren
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Tijdens deze opleiding leerde ik desktopapplicaties ontwikkelen met C#, traditionele webapplicaties uitwerken met behulp van HTML, CSS en JS, en single-page applicaties creëren met React. Daarnaast ging ik op vlak van mobiele applicaties te werk met React Native.
+      
   - title: Extra
     layout: text
     content: | # this will include new lines to allow paragraphs
       Enkele andere interesses en hobby's:
       - Voetbal
-      - Games
-      - Festivals
       - Tuinieren
 
 # Footer
