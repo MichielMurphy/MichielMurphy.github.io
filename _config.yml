@@ -84,7 +84,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Stagiair Full Stack Developer
         caption: begin Oktober 2022 - eind December 2022
-        #quote: >
+        quote: >
            Een bedrijf met hoofdzetel in Lokeren, gespecialiseerd in het leveren en installeren van IT-infrastructuur (hardware en software) voor het onderwijs.
         description: | # this will include new lines to allow paragraphs
             Het onderhouden, uitbreiden en opstarten van projecten in een web development team met zes developers en twee project managers. De backend was in PhP en de frontend in React. Een van de features die ik van nul uitgewerkt heb: https://signpostacademy.eu/blog/
