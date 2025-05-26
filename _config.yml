@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Michiel Murphy
-title: Junior Mobile and Enterprise Developer
+title: Junior Mobile & Enterprise Developer
 email: michiel_murphy@outlook.com
 # website: https://michielmurphy.github.io
 
@@ -48,10 +48,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile2.jpg
+about_title: Over mij
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hallo, ik ben Michiel en ik ben een junior software developer. Dankzij mijn opleidingen en stage kan ik zelfstandig aan de slag en heb ik inzicht ontwikkeld in probleemoplossend denken. Mijn passie ligt bij het coderen zelf. Ik ben iemand die de lat hoog legt voor zichzelf. Bovendien geef niet rap op en probeer ik steeds het beste van mezelf te geven.
+  Hallo, ik ben Michiel en ik ben een Junior Software Developer. Dankzij mijn opleidingen en stage kan ik zelfstandig aan de slag en heb ik inzicht ontwikkeld in probleemoplossend denken. Mijn passie ligt bij het coderen. Ik ben iemand die de lat hoog legt voor zichzelf. Bovendien geef ik niet rap op en probeer ik steeds het beste van mezelf te geven.
 
   Zoals terug te vinden op mijn curriculum vitae ben ik gedurende mijn studies met verschillende frameworks aan de slag gegaan. Ik ben het meest bekwaam in: <mark>Java</mark>
 
@@ -83,11 +83,11 @@ content:
         link: https://signpost.be/nl-be/
         # link_text: boringcompany.com
         sub_title: Stagiair Full Stack Developer
-        caption: begin Oktober 2022 - eind December 2022
+        caption: begin oktober 2022 - eind december 2022
         quote: >
            Een bedrijf met hoofdzetel in Lokeren, gespecialiseerd in het leveren en installeren van IT-infrastructuur (hardware en software) voor het onderwijs.
         description: | # this will include new lines to allow paragraphs
-            Het onderhouden, uitbreiden en opstarten van projecten in een web development team met zes developers en twee project managers. De backend was in PhP en de frontend in React. Een van de features die ik van nul uitgewerkt heb: https://signpostacademy.eu/blog/
+            Het onderhouden, uitbreiden en opstarten van projecten in een web development team met zes developers en twee project managers. De backend was in PhP en de frontend in React. Een van de features die ik van nul uitgewerkt heb, is het beheren en maken van een blogpagina: [Signpost Academy Blog](https://signpostacademy.eu/blog/)
 
   - title: Opleiding # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,7 +113,7 @@ content:
           - Java (JavaFX, JPA, Spring Boot)
           - AngularJS
 
-  - title: Over mij
+  - title: Extra
     layout: text
     content: | # this will include new lines to allow paragraphs
       Enkele andere interesses en hobby's:
