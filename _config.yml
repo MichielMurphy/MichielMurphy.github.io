@@ -31,12 +31,15 @@ linkedin_username: michielmurphy
 
 # Additional icon links
 additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
+#  - title: itsgoingto.be
+#   icon: fas fa-globe
 #  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+  - title: Bekijk CV
+    icon: fas fa-file-pdf
+    url: /CV_Michiel_Murphy.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -46,74 +49,81 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.png
+about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hallo, ik ben Michiel en ik ben een junior software developer. Ik heb daarnaast ook ervaring met het maken van webapplicaties.
+  Hallo, ik ben Michiel en ik ben een junior software developer. Dankzij mijn opleidingen en stage kan ik zelfstandig aan de slag en heb ik inzicht ontwikkeld in probleemoplossend denken. Mijn passie ligt bij het coderen zelf. Ik ben iemand die de lat hoog legt voor zichzelf. Bovendien geef niet rap op en probeer ik steeds het beste van mezelf te geven.
 
-  Ik ben het meest bekwaam in: <mark>Java</mark>
+  Zoals terug te vinden op mijn curriculum vitae ben ik gedurende mijn studies met verschillende frameworks aan de slag gegaan. Ik ben het meest bekwaam in: <mark>Java</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+ # - title: Projects # Title for the section
+ #   layout: list # Type of content section (list/text)
+ #   content:
+ #     - layout: top-middle
+ #       title: Super awesome project
+ #       link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+ #       additional_links:
+ #         - title:  sproogen/modern-resume-theme
+ #           icon: fab fa-github
+ #           url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+ #       quote: >
+ #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+ #       description: | # this will include new lines to allow paragraphs
+ #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: Ervaring # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Signpost BV
+        link: https://signpost.be/nl-be/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Stagiair Full Stack Developer
+        caption: begin Oktober 2022 - eind December 2022
+        #quote: >
+           Een bedrijf met hoofdzetel in Lokeren, gespecialiseerd in het leveren en installeren van IT-infrastructuur (hardware en software) voor het onderwijs.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Het onderhouden, uitbreiden en opstarten van projecten in een web development team met zes developers en twee project managers. De backend was in PhP en de frontend in React. Een van de features die ik van nul uitgewerkt heb: https://signpostacademy.eu/blog/
 
-  - title: Education # Title for the section
+  - title: Opleiding # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Hogeschool Gent
+        caption: 2020 - 2022
+        sub_title: Graduaat Programmeren
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Tijdens deze opleiding leerde ik desktopapplicaties ontwikkelen met C#, traditionele webapplicaties uitwerken met behulp van HTML, CSS en JS, en single-page applicaties creëren met React. Daarnaast ging ik op vlak van mobiele applicaties te werk met React Native.
+      - layout: left
+        title: Hogeschool Gent
+        caption: 2023 - 2025
+        sub_title: Verkort Traject Bachelor Toegepaste Informatica
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Na het behalen van de graduaatsopleiding besloot ik om nog verder te studeren. Momenteel zit ik in het laatste jaar van een verkort traject van Bachelor Toegepaste Informatica. Ik heb gewerkt met volgende frameworks:
+          - Android Jetpack Compose (Kotlin)
+          - C# (.NET Core, Entity Framework, Blazor, LINQ)
+          - Java (JavaFX, JPA, Spring Boot)
+          - AngularJS
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Over mij
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Enkele andere interesses en hobby's:
+      - Voetbal
+      - Games
+      - Festivals
+      - Tuinieren
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
