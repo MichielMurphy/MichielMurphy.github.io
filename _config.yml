@@ -33,7 +33,8 @@ linkedin_username: michielmurphy
 additional_links:
   - title: Bekijk CV
     icon: fas fa-file-pdf
-    url: /CV_Michiel_Murphy.pdf
+    url: https://michielmurphy.github.io/CV_Michiel_Murphy.pdf
+   #url: /CV_Michiel_Murphy.pdf
 #  - title: itsgoingto.be
 #   icon: fas fa-globe
 #  url: https://www.itsgoingto.be
